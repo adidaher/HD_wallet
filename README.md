@@ -4,3 +4,8 @@ User can check account balance by address.
 Also, User can restore account address by provide wallet seed.
 
 -HTML -JS -WEB3 -NodeJS
+
+# Run 
+1. in command line : node .\main.js
+2. Go live
+(make sure you're on port:8080)
